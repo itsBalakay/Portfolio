@@ -6,13 +6,13 @@
     "image": "profilepic.jpg",
     "bio": "I'm a passionate front-end developer and enthusiactic programmer, always pumped to creating new projects out there. I have experience developing and designing web application, from simple landing pages to progressive web applications. I strive to create web applications that not only functions efficiently under the hood, but also provides intuitive, pixel-perfect user experiences. I love learning new and better ways to create seamless user experiences with clean, efficient, and scalable code. I consider work an ongoing education, and I'm always looking for opportunities to work with those who are willing to share their knowledge as much as I want to learn. At the end of the day, my primary goal is to create something beautiful with people that bring out best in me.",
     "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
-    "email": "shraddhahinge400@gmail.com",
-    "phone": "+91 9766910272",
+    "email": "blakestillwell@att.com",
+    "phone": "954-830-1906",
     "address": {
-      "street": "Rahatani",
-      "city": "Pune,India",
-      "state": "Maharastra",
-      "zip": "411017"
+      "street": "N/A",
+      "city": "Miami",
+      "state": "Florida",
+      "zip": "33025"
     },
     "website": "https://www.papareact.com/course",
     "resumedownload": "http://papareact.com",
@@ -29,17 +29,17 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/blakestillwell/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/blakestillwell/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/itsBalakay",
         "className": "fa fa-github"
       }
     ]
@@ -48,19 +48,25 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Pune - India",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "Oct 2020",
-        "description": "Graduated with First Class Honours"
+        "school": "Ironhack - Miami",
+        "degree": "Full Stack Development Course",
+        "graduated": "July 2021",
+        "description": "Graduated with focus on JavaScript, MERN Stack, HTML, CSS"
+      },
+      {
+        "school": "Florida International University",
+        "degree": "Bachelors in General Biology",
+        "graduated": "July 2019",
+        "description": "Graduated with Bachelors degree in General Biology. Cum Laude." 
       }
       
     ],
     "work": [
       {
-        "company": "Freelancing",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "EZ Radio Strap",
+        "title": "Web Designer",
+        "years": "June 2020 - Present",
+        "description": "Designed and built website for EZ Radio Strap"
       }
     ],
     "skills": [
@@ -111,12 +117,8 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
-      },
-      {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Blake is extremely committed and self-motivated. A versatile team partner. Anyone would be lucky to have Blake as a colleague.",
+        "user": "John Kegley"
       }
     ]
   }
